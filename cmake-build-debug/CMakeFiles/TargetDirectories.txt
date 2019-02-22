@@ -1,0 +1,3 @@
+/home/darek/CLionProjects/stos2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/darek/CLionProjects/stos2/cmake-build-debug/CMakeFiles/stos2.dir
+/home/darek/CLionProjects/stos2/cmake-build-debug/CMakeFiles/edit_cache.dir

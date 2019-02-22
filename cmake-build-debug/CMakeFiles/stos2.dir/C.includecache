@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darek/CLionProjects/stos2/dane.h
+
+/home/darek/CLionProjects/stos2/main.c
+stdio.h
+-
+string.h
+-
+dane.h
+/home/darek/CLionProjects/stos2/dane.h
+stos.h
+/home/darek/CLionProjects/stos2/stos.h
+stdlib.h
+-
+
+/home/darek/CLionProjects/stos2/stos.h
+dane.h
+/home/darek/CLionProjects/stos2/dane.h
+

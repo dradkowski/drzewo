@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/stos2.dir/main.c.o CMakeFiles/stos2.dir/dane.c.o CMakeFiles/stos2.dir/stos.c.o  -o stos2 
